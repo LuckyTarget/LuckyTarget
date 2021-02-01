@@ -6,10 +6,10 @@ I create discord bots, website programming panels and websites.  I have a passio
  ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://.png?raw=true">
 </p>
  
-### Boy Scout Rule
+### LuckyTar
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
 
