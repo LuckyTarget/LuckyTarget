@@ -6,7 +6,7 @@ I create discord bots, website programming panels and websites.  I have a passio
  ---
  
  <p>
-  <img width="250" align='left' src="https://.png?raw=true">
+  <img width="250" align='left' src="https://imgur.com/y73DUze.png?raw=true">
 </p>
  
 ### LuckyTarget
