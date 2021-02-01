@@ -37,7 +37,6 @@ setwelcome > Sets a welcome channel to (welcome) new members
 setbye > Sets A Bye channel to (bye) members that left the server
 
 welcomechannel > checks the set channel
-
 </code></pre>
 
 <p><strong>⭐Logs/Events System</strong></p>
@@ -104,7 +103,7 @@ coronastats > Covid>19 Statistics
 
 <p><strong>⭐Fun Commands</strong></p>
 
-<pre><code>delete, jail, brazzers, wanted, wasted, hug, gif, 
+<pre><code>emolets, tiny, delete, jail, brazzers, wanted, wasted, hug, gif, 
 
 kiss, hack, 8ball, wink, howgay, imagine, dankrate, stankrate, greentext, 
 
