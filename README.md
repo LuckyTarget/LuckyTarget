@@ -1,11 +1,9 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/duagz2kjj/image/upload/v1613500749/a_35356623a114e3c696d781d23232008b_wo1ifa.gif" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">LuckyTarget Profile</h2>
- <p align="center">Welcome to my github profile!</p>
+ <p align="center">Hey there 👋</p>
 </p>
 <center>
-
-Hey there 👋,
 
 I create discord bots, website programming panels and websites.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [My Repositories](https://github.com/LuckyTarget?tab=repositories).  If you found value in something I have created, please feel free to send a , give me a shout out on my discord server! Give some ♥ on [Discord Server](https://discord.gg/sQQFSnQhdt) I would love to see you join.
 
