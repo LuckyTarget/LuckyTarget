@@ -5,19 +5,10 @@
 </p>
 
 <p align="center">
-    <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
+    <i>You can find me or contact me through these networks:</i>
     <br/><br/>
     <a href="https://discord.gg/sQQFSnQhdt" target="_blank">
         <img src="https://img.shields.io/discord/793149744847257600?label=Discord%20Support%20Server&style=for-the-badge" alt="Discord" />
-    </a>
-    <a href="https://t.me/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
-    </a>
-    <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
-    </a>
-    <a href="mailto:matheusfelipeog@protonmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="Bradge ProtonMail" />
     </a>
 </p>
 
