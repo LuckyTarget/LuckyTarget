@@ -2,13 +2,13 @@
  <img width="100px" src="https://res.cloudinary.com/duagz2kjj/image/upload/v1613500749/a_35356623a114e3c696d781d23232008b_wo1ifa.gif" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">LuckyTarget Profile</h2>
  <p align="center">Welcome to my github profile!</p>
-</p>
+</p><center>
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
       <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
     <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
+    </a></center>
   </p>
 
 Hey there 👋,
