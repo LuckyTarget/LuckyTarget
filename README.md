@@ -5,7 +5,7 @@
 </p>
   <p align="center">
     <a href="https://github.com/LuckyTarget?tab=repositories">             
-      <img alt="Repositories" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+      <img alt="Repositories" src="https://github.com/LuckyTarget?tab=repositories" />
     </a>
     <a href="https://discord.gg/sQQFSnQhdt">
       <img alt="Discord Server" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
