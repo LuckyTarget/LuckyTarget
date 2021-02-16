@@ -10,6 +10,4 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ---
  
-[Lucky - Stats](https://github-readme-stats.vercel.app/api?username=luckytarget&theme=highcontrast&show_icons=true&count_private=true&text_color=00ff00&hide_border=true&custom_title=Roki%27s%20Current%20GitHub%20stats%3A) <!-- ![Bass project](https://cdn.discordapp.com/avatars/590948209925423123/254bb38dd757bf143f5f43c94ab63768.png?size=128) -->
-
-[Lucky - Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luckytarget&langs_count=10&layout=compact&theme=highcontrast&show_icons=true&count_private=true&text_color=00ff00&hide_border=true&custom_title=LuckyTarget%27s%20Most%20Used%20Languages%3A)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
