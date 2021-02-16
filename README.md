@@ -10,4 +10,4 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 ---
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckytarget)](https://github.com/luckytarget/github-readme-stats)
