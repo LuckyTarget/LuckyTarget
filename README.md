@@ -3,7 +3,9 @@
  <h2 align="center">LuckyTarget Profile</h2>
  <p align="center">Hey there 👋</p>
 </p>
-[![Discord Server](https://img.shields.io/discord/793149744847257600?label=Discord%20Support%20Server&style=for-the-badge)
+
+![Discord Server](https://img.shields.io/discord/793149744847257600?label=Discord%20Support%20Server&style=for-the-badge)
+
 <center>
 
 I create discord bots, website programming panels and websites.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [My Repositories](https://github.com/LuckyTarget?tab=repositories).  If you found value in something I have created, please feel free to send a , give me a shout out on my discord server! Give some ♥ on [Discord Server](https://discord.gg/sQQFSnQhdt) I would love to see you join.
