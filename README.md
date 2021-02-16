@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/duagz2kjj/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1613500749/a_35356623a114e3c696d781d23232008b_wo1ifa.gif" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">LuckyTarget Profile</h2>
  <p align="center">Welcome to my github profile!</p>
 </p>
