@@ -14,4 +14,4 @@ I create discord bots, website programming panels and websites.  I have a passio
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
 
  ---
-[Lucky - Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luckytarget&langs_count=10&layout=compact&theme=highcontrast&show_icons=true&count_private=true&text_color=00ff00&hide_border=true&custom_title=Roki%27s%20Most%20Used%20Languages%3A)
+[Lucky - Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luckytarget&langs_count=10&layout=compact&theme=highcontrast&show_icons=true&count_private=true&text_color=00ff00&hide_border=true&custom_title=LuckyTarget%27s%20Most%20Used%20Languages%3A)
