@@ -3,12 +3,6 @@
  <h2 align="center">LuckyTarget Profile</h2>
  <p align="center">Welcome to my github profile!</p>
 </p>
-  <p align="center">
-    <a href="https://discord.gg/sQQFSnQhdt">
-      <img alt="Discord Server" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
     <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
       <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
