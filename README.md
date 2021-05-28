@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/duagz2kjj/image/upload/v1613500749/a_35356623a114e3c696d781d23232008b_wo1ifa.gif" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://cdn.discordapp.com/attachments/846824301676068874/847940145411391518/create-animated-discord-profile-pic-avatar-gif.gif" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">LuckyTarget Profile</h2>
  <p align="center">Hey there 👋</p>
 </p>
