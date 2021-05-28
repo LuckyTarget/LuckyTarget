@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://imgur.com/iWppORC.gif" align="center" alt="GitHub Readme Stats" />
+ <img src="https://imgur.com/iWppORC.gif" height="240" width="480">
  <h2 align="center">LuckyTarget Profile</h2>
  <p align="center">Hey there 👋</p>
 </p>
