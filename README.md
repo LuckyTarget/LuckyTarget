@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://imgur.com/iWppORC.gif" height="240" width="480">
+ https://media.tenor.co/videos/d470b185f5ae728d291032c94f3ea800/mp4
  <h2 align="center">LuckyTarget Profile</h2>
  <p align="center">Hey there 👋</p>
 </p>
