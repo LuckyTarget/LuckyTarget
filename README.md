@@ -1,5 +1,6 @@
 <p align="center">
  <img src="https://media.discordapp.net/attachments/846824301676068874/847413435129135124/logo.png" width="300">
+ <h1 align="center">Astra Community</h2>
  <h2 align="center">LuckyTarget Profile</h2>
  <p align="center">Hey there 👋</p>
 </p>
