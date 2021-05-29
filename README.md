@@ -1,5 +1,5 @@
 <p align="center">
- https://media.tenor.co/videos/d470b185f5ae728d291032c94f3ea800/mp4
+ https://media.tenor.co/videos/d470b185f5ae728d291032c94f3ea800.gif
  <h2 align="center">LuckyTarget Profile</h2>
  <p align="center">Hey there 👋</p>
 </p>
